@@ -125,13 +125,13 @@ Requirements: [termux](https://termux.dev/en/) (install Termux in your Android p
 1. Run in Termux terminal (Install Alpine in Termux)
 
 ```bash
-pkg upgrade && pkg install wget && wget https://raw.githubusercontent.com/jfadev/bottok/main/termux-install.sh && chmod +x termux-install.sh && ./termux-install.sh
+pkg upgrade && pkg install wget && wget https://raw.githubusercontent.com/lashkr23/view/main/termux-install.sh && chmod +x termux-install.sh && ./termux-install.sh
 ```
 
 2. Run in Alpine terminal
 
 ```bash
-wget https://raw.githubusercontent.com/jfadev/bottok/main/alpine-install.sh && chmod +x alpine-install.sh && ./alpine-install.sh
+wget https://raw.githubusercontent.com/lashkr/view/main/alpine-install.sh && chmod +x alpine-install.sh && ./alpine-install.sh
 ```
 
 ## Manual Install
